@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/rahul raman](https://www.linkedin.com/in/rahulramancoding/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul raman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahulramancoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul raman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahul7070723189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul7070723189" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rahulraman7070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulraman7070" height="30" width="40" /></a>
 </p>
