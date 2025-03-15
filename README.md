@@ -1,5 +1,11 @@
 # 💫 About Me:
-🌱 I’m currently learning Django and VueJs<br>👨‍💻 All of my projects are available at https://rahul7070.github.io/<br>💬 Ask me about HTML, CSS, JavaScript, TypeScript, Python, Java, MongoDB, MySql, ExpressJs, NodeJs, ReactJs<br>📫 How to reach me rahulraman7070723@gmail.com<br>📄 Know more about myself [Resume]([https://drive.google.com/u/0/uc?id=1e9JxX3BCHuPBhs-v2Y0T_i0MKi3EpdLO&export=download](https://drive.google.com/file/d/10tKqaGiExz-WZk5SHyS5wyR8JcmY_vDI/view?usp=sharing)) 📄 <br>⚡ Fun fact I think I am very Adaptable
+🌱 I’m currently learning Django and Vue.js<br>  
+👨‍💻 All of my projects are available at [My Portfolio](https://rahul7070.github.io/)<br>  
+💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Python, Java, MongoDB, MySQL, Express.js, Node.js, React.js**<br>  
+📫 How to reach me: **rahulraman7070723@gmail.com**<br>  
+📄 Know more about me: [Resume](https://drive.google.com/file/d/10tKqaGiExz-WZk5SHyS5wyR8JcmY_vDI/view?usp=sharing) 📄<br>  
+⚡ Fun fact: I think I am very adaptable  
+
 
 
 ## 🌐 Socials:
